@@ -5,6 +5,13 @@ Data Bit 1 – Securitization of Migration in Algeria
 
 This data journalism piece investigates Algeria’s migration control practices through newly compiled data from official military reports.
 
+# Data Bit 1 – Migration in Algeria
+
+This project explores migration control practices in Algeria using scraped data from official military reports.
+
+🔗 **Read the full interactive article:**  
+👉 https://rawcdn.githack.com/sophiahiss2000-jpg/data-bit-1-SophiaHiss/main/index.html
+
 ## 🔍 About the project
 
 While Algeria remains a “black box” in migration governance, this project reconstructs patterns of enforcement by scraping and analyzing weekly operational reports published by the Algerian Ministry of Defence.
@@ -24,10 +31,6 @@ The dataset provides a rare longitudinal perspective on migration-related arrest
 - Processing: extraction, cleaning, aggregation  
 
 The full code and datasets are available in this repository to ensure transparency and reproducibility.
-
-## 🌐 View the project
-
-👉 [Click here to view the article](https://yourusername.github.io/databit-algeria-migration/)
 
 ## 📁 Repository structure
 
