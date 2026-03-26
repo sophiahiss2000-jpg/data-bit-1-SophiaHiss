@@ -1,0 +1,43 @@
+.quarto-title-block h1.title {
+  text-align: center !important;
+  margin-bottom: 50px !important;
+  font-weight: bold;
+}
+
+.quarto-title-block {
+  text-align: center !important;
+}
+
+.quarto-title-meta {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.quarto-title-meta-heading,
+.quarto-title-meta-contents {
+  text-align: center !important;
+  width: 100%;
+}
+
+.author-box {
+  margin-top: 40px;
+  padding-top: 15px;
+  border-top: 1px solid #ddd;
+  font-size: 0.95em;
+  color: #555;
+  text-align: center;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quarto-figure figcaption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #555;
+}
