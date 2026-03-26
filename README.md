@@ -13,10 +13,17 @@ The dataset provides a rare longitudinal perspective on migration-related arrest
 
 ## 📊 Data & Methods
 
-- Source: Algerian Ministry of Defence operational reports + external news reporting
-- Method: Web scraping in R (`rvest`, `tidyverse`)  
+- Sources:
+  - Algerian Ministry of Defence operational reports (primary)
+  - External news reporting (secondary dataset)
+- Methods:
+  - Web scraping in R (`rvest`, `tidyverse`)
+  - Manual data collection from news sources
+  - Data cleaning and aggregation
 - Sample: 100+ reports (2015–2025)  
 - Processing: extraction, cleaning, aggregation  
+
+The full code and datasets are available in this repository to ensure transparency and reproducibility.
 
 ## 🌐 View the project
 
@@ -27,8 +34,12 @@ The dataset provides a rare longitudinal perspective on migration-related arrest
 ├── index.html # Final rendered article
 ├── DataBit1_SophiaHiss.qmd # Quarto source file
 ├── styles.css # Custom styling
-└── figures/ # Images and visualizations
-└── 
+├── data/
+│ ├── mdn_reports.csv # Scraped military data
+│ └── external_reports.csv # Supplementary dataset (news sources)
+├── code/
+│ └── scraping_analysis.R # R script (scraping + cleaning + plotting)
+└── figures/pngs/ # Visualizations used in the article
 
 
 ## ⚠️ Notes on data
