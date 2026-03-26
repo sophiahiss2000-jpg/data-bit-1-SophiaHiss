@@ -6,7 +6,7 @@ This data journalism piece investigates Algeria’s migration control practices 
 
 This project explores migration control practices in Algeria using scraped data from official military reports.
 
-🔗 **Read the full interactive article:**  
+🔗 **Read the full article:**  
 👉 https://rawcdn.githack.com/sophiahiss2000-jpg/data-bit-1-SophiaHiss/main/index.html
 
 ## 🔍 About the project
