@@ -31,8 +31,6 @@ The full code and datasets are available in this repository to ensure transparen
 
 ## 📁 Repository structure
 
-## 📁 Repository structure
-
 - **index.html** – Final rendered article  
 - **DataBit1_SophiaHiss.qmd** – Source file (Quarto)  
 - **styles.css** – Custom styling  
