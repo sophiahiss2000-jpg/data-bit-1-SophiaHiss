@@ -39,7 +39,8 @@ The full code and datasets are available in this repository to ensure transparen
 
 - **figures/** – Images used in the article  
   - InGuezzam.png  
-  - Arrests-aggregated-2015-2025.png  
+  - Arrests-aggregated-2015-2025.png
+  - optional: Reported monthly arrests (2024-2025)
 
 - **DataBit1_SophiaHiss_files/** – Quarto-generated dependencies  
   - libs/  
