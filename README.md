@@ -34,17 +34,18 @@ The full code and datasets are available in this repository to ensure transparen
 
 ## 📁 Repository structure
 
+data-bit-1-SophiaHiss/
 ├── index.html # Final rendered article
-├── DataBit1_SophiaHiss.qmd # Quarto source file
+├── DataBit1_SophiaHiss.qmd # Source file (Quarto)
 ├── styles.css # Custom styling
-├── data/
-│ ├── mdn_reports.csv # Scraped military data
-│ └── external_reports.csv # Supplementary dataset (news sources)
-├── code/
-│ └── scraping_analysis.R # R script (scraping + cleaning + plotting)
-├── figures/
-   ├── InGuezzam.png
-   └── Arrests-aggregated-2015-2025.png # Visualizations used in the article
+├── figures/ # Images used in the article
+│ ├── InGuezzam.png
+│ └── Arrests-aggregated-2015-2025.png
+├── DataBit1_SophiaHiss_files/ # Quarto-generated dependencies
+│ └── libs/
+├── df_immigration_2015til2025_full_sources.xlsx # Annual compiled Dataset with sources
+├── Algeria_Defense_Ministry_Scraper+Data_... # Scraping script for monthly data
+└── README.md
 
 
 ## ⚠️ Notes on data
