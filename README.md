@@ -39,7 +39,9 @@ The full code and datasets are available in this repository to ensure transparen
 │ └── external_reports.csv # Supplementary dataset (news sources)
 ├── code/
 │ └── scraping_analysis.R # R script (scraping + cleaning + plotting)
-└── figures/pngs/ # Visualizations used in the article
+├── figures/
+   ├── InGuezzam.png
+   └── Arrests-aggregated-2015-2025.png # Visualizations used in the article
 
 
 ## ⚠️ Notes on data
